@@ -1,0 +1,5 @@
+#Zeichen für Kommentar, das ignoriert wird
+#Das können zum Beispiel temporäre Dateien sein
+*~
+#Ich möchte auch Objektdateien ignorieren
+*.o
