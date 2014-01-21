@@ -9,6 +9,6 @@ int main(void)
 {
 	int ices = 5;
 	printf("Hey man!");
-	buyIce(13);
+	buyIce(15);
 	return 0;
 }
