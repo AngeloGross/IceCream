@@ -1,1 +1,1 @@
-void buyIce(int amount);
+void buyIce(int *amount);
